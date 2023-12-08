@@ -1,4 +1,4 @@
-package Entidades;
+package com.example.examenbd;
 
 import androidx.annotation.NonNull;
 import androidx.room.ColumnInfo;

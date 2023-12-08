@@ -1,4 +1,4 @@
-package BD;
+package com.example.examenbd;
  import android.app.Application;
  import androidx.lifecycle.LiveData;
  import java.util.List;

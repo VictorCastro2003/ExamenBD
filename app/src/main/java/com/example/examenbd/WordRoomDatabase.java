@@ -1,4 +1,4 @@
-package BD;
+package com.example.examenbd;
 
 import android.content.Context;
 

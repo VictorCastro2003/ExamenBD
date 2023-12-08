@@ -1,4 +1,4 @@
-package controladores;
+package com.example.examenbd;
 
 import androidx.lifecycle.LiveData;
 import androidx.room.Dao;
