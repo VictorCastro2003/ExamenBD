@@ -7,8 +7,6 @@ import androidx.lifecycle.LiveData;
 
 import java.util.List;
 
-import Entidades.Word;
-
 public class WordViewModel extends AndroidViewModel {
 
     private WordRepository mRepository;
